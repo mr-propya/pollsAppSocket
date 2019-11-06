@@ -1,4 +1,6 @@
-# pollsAppSocket
+# Polls App using websockets
+### Batch D
+### Group 1
 
 Team Members
 ### Abhishek Revadekar (46)
